@@ -1,0 +1,14 @@
+
+请在命令行把路径转换到该jar包路径，并输入以下命令运行jar包
+
+java -jar Generator.jar -n 10 -r 100 -e Exercises.txt -a Answers.txt
+
+然后答题文件和答案文件会生成在你jar包的目录路径下
+
+其中-n以及-r后面的数据可随意更改
+
+命令运行并作答后，请在命令行输入finish提交作业
+
+最后在Grade.txt中查看本次的作答结果
+
+
